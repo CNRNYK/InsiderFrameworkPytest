@@ -1,0 +1,12 @@
+assertpy
+faker
+jsonpickle
+percy-selenium
+pytest
+pytest-xdist
+pytest-html
+pytest-rerunfailures
+pytz
+requests
+selenium
+webdriver-manager
